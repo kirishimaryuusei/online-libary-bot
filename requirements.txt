@@ -1,0 +1,5 @@
+aiogram
+SQLAlchemy
+pdf2image
+Pillow
+aiohttp
